@@ -1,0 +1,104 @@
+der MannGnounGmanG
+das ÖlGnounGoilG
+die FrauGnounGwomanG
+das FräuleinGnounGMissG
+das MädchenGnounGgirlG
+das KindGnounGchildG
+das HausGnounGhouseG
+die SchuleGnounGschoolG
+die TürGnounGdoorG
+KommenGverbGto comeG
+gehenGverbGto goG
+sehenGverbGto seeG
+wollenGverbGto wantG
+wissenGverbGto knowG
+könnenGverbGto be ableG
+vorGprepositionGbeforeG
+nachGprepositionGafterG
+zuGprepositionGtoG
+bisGprepositionGuntilG
+ohneGprepositionGwithoutG
+einsGcardinal numberGoneG
+zweiGcardinal numberGtwoG
+dreiGcardinal numberGthreeG
+hochGadverbGhighG
+gutGadjective/adverbGgoodG
+1
+le motFnounFwordF
+le garçonFnounFboyF
+jeuneFadjectiveFyoungF
+le boulangerFnounFbakerF
+la filleFnounFgirlF
+françaisFadjectiveFFrenchF
+le livreFnounFbookF
+l’écoleFnounsFschoolF
+la maisonFnounFhouseF
+êtreFverbFto beF
+aprèsFprepositionFafterF
+voirFverbFto seeF
+direFverbFto sayF
+allerFverbFto goF
+le mardiFnounFTuesdayF
+la salleFnounFroomF
+elleFpronounFsheF
+le jourFnounFdayF
+aujourd'huiFadverbFtodayF
+la pluieFnounFrainF
+le chevalFnounFhorseF
+le moulinFnounFmillF
+rougeFadjectiveFredF
+la neigeFnounFsnowF
+2
+rachokHadverbHfarH
+panimHnounHfaceH
+tapuachHnounHappleH
+ma'afiahHnounHbakeryH
+ayinHnounHeyeH
+adomHadjectiveHredH
+shelegHnounHsnowH
+ochelHnounHfoodH
+bariHadjectiveHhealthyH
+chamHadjectiveHhotH
+yom shlishiHnounHTuesdayH
+tovHadjectiveHgoodH
+tovHadjectiveHgoodH
+latetHverbHhereH
+kanHadverbHhereH
+jukeHnounHbugH
+lemalaHadverbHupH
+mitahHnounHbedH
+kafa'faHnounHgloveH
+katis ashreiHnounHcredit cardH
+zolHadjectiveHinexpensiveH
+smartootHnounHrainH
+susHnounHhorseH
+mataiHadverbHwhenH
+chatza'itHnounHskirtH
+cheshbonHnounHbillH
+3
+puerLnounLboyL
+pistorLnounLbakerL
+puellaLnounLgirlL
+bonusLadjectiveLgoodL
+liberLnounLbookL
+scholaLnounLschoolL
+domusLnounLhouseL
+esseLverbLto beL
+postLprepositionLafterL
+illaLpronounLsheL
+conclaveLnounLroomL
+hodieLadverbLtodayL
+pluviaLnounLrainL
+equusLnounLhorseL
+molaLnounLmillL
+ruberLadjectiveLredL
+nixLnounLsnowL
+ireLverbLto goL
+oculusLnounLeyeL
+introLadverbLwithinL
+feminaLnounLwomanL
+homunculusLnounLlittle manL
+malumLnounLappleL
+namLconjunctionLforL
+zelusLnounLzealL
+4
